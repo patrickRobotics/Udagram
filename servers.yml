@@ -1,5 +1,5 @@
 Description: >
-  Carlos Rivas / Udacity
+  Udagram / Udacity
 Parameters:
   EnvironmentName:
     Description: An environment name that will be prefixed to resource names
